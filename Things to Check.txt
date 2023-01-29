@@ -1,5 +1,7 @@
 Apache Kafka
 
+Apache Druid
+
 Apache Flint
 
 Apache Spark
